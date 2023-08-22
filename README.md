@@ -26,7 +26,7 @@ A simple To-Do List application built using the MERN (MongoDB, Express, React, N
 2. Navigate to the client directory:
 cd To-Do-List/client
 3. Install the dependencies:
-npm install boostrap react-router-dom
+npm install boostrap react-router-dom axios
 4. Start the development server:
 npm start
 Open your web browser and visit http://localhost:3000 to access the application.
